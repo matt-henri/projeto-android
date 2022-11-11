@@ -139,7 +139,7 @@ main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2em;
     padding: 20px;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.288);
 }
